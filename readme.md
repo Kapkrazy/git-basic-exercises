@@ -1,2 +1,1 @@
-sample text
-more sample text
+booya
